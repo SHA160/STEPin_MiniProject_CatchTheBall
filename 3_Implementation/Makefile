@@ -1,4 +1,4 @@
-CTB = test.c DisplayBorder.c
+DB = test.c DisplayBorder.c
 HEAD = DisplayBorder.h
-target : $(CTB) $(HEAD)
-	gcc $(CTB) -o a.out
+target : $(DB) $(HEAD)
+	gcc $(DB) -o a.out
