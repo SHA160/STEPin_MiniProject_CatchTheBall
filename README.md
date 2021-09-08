@@ -13,6 +13,7 @@
 [![Valgrind](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/Valgrind.yml)
 [![Unit testing](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/unit-test.yml/badge.svg)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/unit-test.yml)
 [![Code-Coverage](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/coverage.yml/badge.svg)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/coverage.yml)
+[![Git Inspector](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/gitinspector.yml)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **A video showcasing this silly game**
 
