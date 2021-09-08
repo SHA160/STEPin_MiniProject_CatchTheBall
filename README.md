@@ -2,3 +2,5 @@
 [![Cath The Ball](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/main.yml)
 [![C/C++ CI](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/c-cpp.yml)
 [![Valgrind](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/Valgrind.yml)
+[![cppcheck-action](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/cppcheck.yml)
+[![Unit testing](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/unit-test.yml/badge.svg)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/unit-test.yml)
