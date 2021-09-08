@@ -1,3 +1,10 @@
+/** @brief Catch The Ball Game using C language
+    Use Up, Down, Right and Left arrow keys to move your bat on screen to search the ball. Press X or any key to exit from the game.
+    @author SHA160
+    @date September 2021
+    @file DisplayBorder.c
+    */
+
 #include "DisplayBorder.h"
 
 void DisplayBorder();
