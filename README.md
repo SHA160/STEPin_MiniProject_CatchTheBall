@@ -1,2 +1,4 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a3aa0fec792545378300fc0b7ab93bce)](https://www.codacy.com/gh/SHA160/STEPin_MiniProject_CatchTheBall/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SHA160/STEPin_MiniProject_CatchTheBall&amp;utm_campaign=Badge_Grade)
 [![Cath The Ball](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/main.yml)
-[![Cath The Ball](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/main.yml/badge.svg?event=page_build)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/main.yml)
+[![C/C++ CI](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/c-cpp.yml)
+[![Valgrind](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/Valgrind.yml)
