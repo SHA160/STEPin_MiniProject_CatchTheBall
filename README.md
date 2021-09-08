@@ -1,2 +1,3 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5efc9531c68240a8a47d556a70bb14ad)](https://app.codacy.com/gh/SHA160/STEPin_MiniProject_CatchTheBall?utm_source=github.com&utm_medium=referral&utm_content=SHA160/STEPin_MiniProject_CatchTheBall&utm_campaign=Badge_Grade_Settings)
 [![Cath The Ball](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/main.yml)
 [![Cath The Ball](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/main.yml/badge.svg?event=page_build)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/main.yml)
