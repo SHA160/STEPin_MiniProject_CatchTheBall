@@ -22,3 +22,4 @@ Making these silly games is always fun. For this prroject i had to research abou
 
 # Requirements to run the game
 - Any Windows or Linux machine will suffice.
+- If running in a Linux machine, install Wine as <Windows.h> is a windows only library :)
