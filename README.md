@@ -1,2 +1,1 @@
-# README.md
-##STEPin_MiniProject_CatchTheBall
+[![Cath The Ball](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/SHA160/STEPin_MiniProject_CatchTheBall/actions/workflows/main.yml)
