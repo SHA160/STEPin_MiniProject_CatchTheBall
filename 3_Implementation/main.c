@@ -1,10 +1,3 @@
-//Catch The Ball Game using C language
-
-/* 
-Use Up, Down, Right and Left arrow keys to move your bat on screen to search the Ball.
-Press X to exit from the game.
-*/
-
 /** @brief Catch The Ball Game using C language
 
     Use Up, Down, Right and Left arrow keys to move your bat on screen to search the ball. Press X or any key to exit from the game.
