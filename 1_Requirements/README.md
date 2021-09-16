@@ -2,7 +2,7 @@
 
 This is a game you can play in a terminal where you catach a ball with a bat. I made use of libraries like <stdio.h>, <stdlib.h>, <conio.h> and <Windows.h>. Windows.h was used to access the Win32 API functions as it makes it easier for the user to use the in-built functionality. I have also made good use of several concepts that i learned in the Genesis programme. 
 
-# Objectrive
+# Objective
 - The only objective here is to catch the ball using the bat
 # Features
 - Easy to play
